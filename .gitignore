@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+myvenv/
+venv/
+
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
+
+Text
+XPath: /pre[2]/code
